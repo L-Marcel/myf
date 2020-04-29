@@ -18,5 +18,6 @@ aberto a **opniões, concelhos e ideias**, afinal, pode conter **erros**.
 
 ### Usuários Acessíveis
 >Alunos e Responsáveis
+
 ### Versão
 >1.1.0
