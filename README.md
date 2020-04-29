@@ -1,4 +1,4 @@
-# **MyF** (My If)
+# **MyF**
 Sistema **mobile** de analise de notas via login com o **SUAP**
 
 ## Funcionalidades
