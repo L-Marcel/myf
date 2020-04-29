@@ -1,4 +1,4 @@
-# **MyF - Informações**
+# **Informações**
 >Sistema **mobile** de analise de notas via login com o **SUAP**
 
 ## Funcionalidades
