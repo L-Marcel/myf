@@ -10,7 +10,7 @@ Sistema **mobile** de analise de notas via login com o **SUAP**
 - Os dados são gerados de forma **automática** com base nas informações dadas pelo SUAP;
 - Os responsáveis poderão **acompanhar** o desempenho do aluno sem dificuldade;
 - Os alunos terão uma **meta** (ou, pelo menos, uma ideia) do quanto precisarão de esforçar para se superar;
-- A nota recomendada evita sempre ficar abaixo da média;
+- A nota recomendada **evita** sempre **ficar abaixo** da média;
 
 ## Aviso
 >Não sou experiente nessa área ainda e essa aplicação foi feita com o pouco conhecimento que tenho do React, portanto, estou
