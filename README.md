@@ -17,7 +17,7 @@ Sistema **mobile** de analise de notas via login com o **SUAP**
 aberto a **opniões, concelhos e ideias**, afinal, pode conter **erros**. 
 
 ### Usuários Acessíveis
->Alunos e Responsáveis
+>Alunos e Responsáveis.
 
 ### Versão
 >1.1.0
