@@ -1,5 +1,5 @@
-# **MyF - Informações:**
-Sistema **mobile** de analise de notas via login com o **SUAP**
+# **MyF - Informações**
+>Sistema **mobile** de analise de notas via login com o **SUAP**
 
 ## Funcionalidades
 - Gera as notas **nescessárias** para passar de ano em cada disciplina (Inclui **prova final**);
