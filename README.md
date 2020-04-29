@@ -14,7 +14,7 @@
 
 ## Aviso
 >Não sou experiente nessa área ainda e essa aplicação foi feita com o pouco conhecimento que tenho do React, portanto, estou
-aberto a **opniões, concelhos e ideias**, afinal, pode conter **erros**. 
+aberto a **opniões, conselhos e ideias**, afinal, pode conter **erros**. 
 
 ### Usuários Acessíveis
 >Alunos e Responsáveis.
